@@ -46,4 +46,4 @@ I just started learning web development not quite long ago (2 years actually ðŸ˜
 
 ### Socials
 
-[Follow Me on Twitter](https://x.com/chiebidolu06) &nbsp;&nbsp;.&nbsp;&nbsp; [Follow Me on Instagram](https://www.instagram.com/chiebidoluchinaemerem) &nbsp;&nbsp;
+[Follow Me on Twitter](https://x.com/chiebidolu06) &nbsp;&nbsp;&nbsp;&nbsp; [Follow Me on Instagram](https://www.instagram.com/chiebidoluchinaemerem) &nbsp;&nbsp;
