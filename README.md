@@ -8,7 +8,7 @@ I just started learning web development not quite long ago (2 years actually �
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [chiebidoluc@gmail.com](mailto:chiebidoluc@gmail.com)
-* 🚀  I'm currently working on [WinWeb](http://winweb-pied.vercel.app/) & [Nuxt-Commerce](https://github.com/chibx/nuxt-commerce)
+* 🚀  I'm currently working on [WinWeb](http://winweb.vercel.app/) & [Nuxt-Commerce](https://github.com/chibx/nuxt-commerce)
 * 🧠  I'm learning Svelte, Rust (on the side), Flutter (Dart)
 * 🤝  I'm open to collaborating on any web project that pulls me
 * ⚡  I suck at using social media btw 😅, but I would really like to get better at it though
