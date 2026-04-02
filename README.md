@@ -7,10 +7,12 @@ Full-Stack Developer
 I just started learning web development not quite long ago (2 years actually 😁), but I can well say it's been a fun experience. I love programming, because it requires constant learning as well as a lot of humility (*there could always be someone better*). I like meeting new developers (**friends**) that I can share ideas and collaborate with
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🚀  I'm currently working on [WinWeb](http://winweb.vercel.app/)
-* 🧠  I'm learning Go, Rust (on the side), Flutter (Dart)
+* 🚀  I'm currently working on [Vuecom](https://github.com/chibx/Vuecom)
+* 🧠  I'm learning Go, Rust (on the side)
 * 🤝  I'm open to collaborating on any web project that pulls me
-* ⚡  I suck at using social media btw 😅, but I would really like to get better at it though
+* ⚡  I suck at using social media, but I would really like to get better at it though
+
+[Follow Me on Twitter](https://x.com/chiebidolu06) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Skills
 
@@ -36,7 +38,3 @@ I just started learning web development not quite long ago (2 years actually �
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src ="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width ="36" height="36" alt ="Docker"/></a> &nbsp;&nbsp;&nbsp;
 </p>
 
-
-### Socials
-
-[Follow Me on Twitter](https://x.com/chiebidolu06) &nbsp;&nbsp;&nbsp;&nbsp; [Follow Me on Instagram](https://www.instagram.com/chiebidoluchinaemerem) &nbsp;&nbsp;
